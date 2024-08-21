@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Hammad-Shahid24
-- 👀 I’m interested in mobile apps development
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on beginner progects
+- 👀 I’m interested in web apps development
+- 🌱 I’m currently working as a junior software engineer
 - 📫 How to reach me: apilex40@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: From Pakistan 
 
 <!---
